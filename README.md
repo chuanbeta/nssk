@@ -1,3 +1,7 @@
+## 测试
+
+视频和报告：https://github.com/chuanbeta/nssk/releases/tag/v1.0
+
 ## 环境配置
 
 python 3.6以上均可
@@ -25,7 +29,3 @@ python server.py
 ```
 python client.py
 ```
-
-## 测试
-
-视频和报告：https://github.com/chuanbeta/nssk/releases/tag/v1.0
