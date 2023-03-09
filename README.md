@@ -28,4 +28,4 @@ python client.py
 
 ## 测试
 
-运行测试过程见视频。
+视频和报告：https://github.com/chuanbeta/nssk/releases/tag/v1.0
